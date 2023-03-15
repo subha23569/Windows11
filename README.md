@@ -1,9 +1,1 @@
-#![img 1](https://user-images.githubusercontent.com/127948894/225315995-b80464b3-bb12-45b2-8202-d3dea6130a7e.jpg)
-![img 2](https://user-images.githubusercontent.com/127948894/225316004-863e9cc9-7a95-4b5f-9dd5-41f1f69109ea.jpg)
-![img 3](https://user-images.githubusercontent.com/127948894/225316014-ad956ac6-9d8a-4ac2-98dc-c0605e061912.jpg)
-![img 4](https://user-images.githubusercontent.com/127948894/225316021-7fe9d248-8307-496d-8d21-af6b3758f0dd.jpg)
-![img 5](https://user-images.githubusercontent.com/127948894/225316031-4c0629a4-c785-4279-9027-3f1f601def4c.jpg)
-![img 6](https://user-images.githubusercontent.com/127948894/225316040-11a94d14-0851-4008-bbdc-4ffbfc54ca0d.jpg)
-![img 7](https://user-images.githubusercontent.com/127948894/225316052-bd3d5588-af5f-4d1b-8f0b-f0c938708911.jpg)
-![img 8](https://user-images.githubusercontent.com/127948894/225316063-adc0d7f3-2982-4af5-975b-1e2dfb2f96d2.jpg)
-![img 9](https://user-images.githubusercontent.com/127948894/225316072-72f96fb4-c0d6-4586-b69f-635630b7184b.jpg)
+# job-portal-website
